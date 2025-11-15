@@ -1,0 +1,549 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{Breiman2001}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4de625aef3b09e83edf76c200750fc6}{%
+           family={Breiman},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c4de625aef3b09e83edf76c200750fc6}
+      \strng{fullhash}{c4de625aef3b09e83edf76c200750fc6}
+      \strng{bibnamehash}{c4de625aef3b09e83edf76c200750fc6}
+      \strng{authorbibnamehash}{c4de625aef3b09e83edf76c200750fc6}
+      \strng{authornamehash}{c4de625aef3b09e83edf76c200750fc6}
+      \strng{authorfullhash}{c4de625aef3b09e83edf76c200750fc6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Learning}
+      \field{number}{1}
+      \field{title}{Random forests}
+      \field{volume}{45}
+      \field{year}{2001}
+      \field{pages}{5\bibrangedash 32}
+      \range{pages}{28}
+    \endentry
+    \entry{Dataro2025}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5d465540d32937c8877415a8443a4914}{%
+           family={Dataro},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d465540d32937c8877415a8443a4914}
+      \strng{fullhash}{5d465540d32937c8877415a8443a4914}
+      \strng{bibnamehash}{5d465540d32937c8877415a8443a4914}
+      \strng{authorbibnamehash}{5d465540d32937c8877415a8443a4914}
+      \strng{authornamehash}{5d465540d32937c8877415a8443a4914}
+      \strng{authorfullhash}{5d465540d32937c8877415a8443a4914}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to cut telemarketing costs using propensity modelling}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.dataro.io/blog/how-to-cut-telemarketing-costs-using-propensity-modelling
+      \endverb
+      \verb{url}
+      \verb https://www.dataro.io/blog/how-to-cut-telemarketing-costs-using-propensity-modelling
+      \endverb
+    \endentry
+    \entry{Intelemark2025}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0746e28c4eb309c29f494618a42b5409}{%
+           family={Intelemark},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{0746e28c4eb309c29f494618a42b5409}
+      \strng{fullhash}{0746e28c4eb309c29f494618a42b5409}
+      \strng{bibnamehash}{0746e28c4eb309c29f494618a42b5409}
+      \strng{authorbibnamehash}{0746e28c4eb309c29f494618a42b5409}
+      \strng{authornamehash}{0746e28c4eb309c29f494618a42b5409}
+      \strng{authorfullhash}{0746e28c4eb309c29f494618a42b5409}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{10 key metrics for measuring telemarketing success and ROI}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.intelemark.com/blog/10-key-metrics-for-measuring-telemarketing-success-and-roi/
+      \endverb
+      \verb{url}
+      \verb https://www.intelemark.com/blog/10-key-metrics-for-measuring-telemarketing-success-and-roi/
+      \endverb
+    \endentry
+    \entry{Lessmann2015}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2ef8545eccc82340776d291a71b689bf}{%
+           family={Lessmann},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd6b145c97476dfb7827be081e4ac697}{%
+           family={Baesens},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44e94f922c05bd81f0cb9254a592978c}{%
+           family={Seow},
+           familyi={S\bibinitperiod},
+           given={H.\bibnamedelimi V.},
+           giveni={H\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a906b8819d6761cd45040de6e9ae076}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fcb9c08ac1e323eaf1c9aa7d61a8c52c}
+      \strng{fullhash}{de0326c91ed3f400436f2b229d06d6d3}
+      \strng{bibnamehash}{de0326c91ed3f400436f2b229d06d6d3}
+      \strng{authorbibnamehash}{de0326c91ed3f400436f2b229d06d6d3}
+      \strng{authornamehash}{fcb9c08ac1e323eaf1c9aa7d61a8c52c}
+      \strng{authorfullhash}{de0326c91ed3f400436f2b229d06d6d3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{number}{1}
+      \field{title}{Benchmarking state-of-the-art classification algorithms for credit scoring}
+      \field{volume}{247}
+      \field{year}{2015}
+      \field{pages}{124\bibrangedash 136}
+      \range{pages}{13}
+    \endentry
+    \entry{LundbergLee2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1e9f977bbfce424605b5bc2a155b4529}{%
+           family={Lundberg},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           suffix={Scott\},
+           suffixi={S\bibinitperiod},
+           suffixun=0}}%
+        {{un=0,uniquepart=base,hash=ee964079d93879aaef2382a5fff343d3}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Su-In},
+           giveni={S\bibinithyphendelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Long Beach, CA}%
+      }
+      \list{publisher}{1}{%
+        {Curran Associates, Inc.}%
+      }
+      \strng{namehash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \strng{fullhash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \strng{bibnamehash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \strng{authorbibnamehash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \strng{authornamehash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \strng{authorfullhash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Neural Information Processing Systems 30}
+      \field{title}{A Unified Approach to Interpreting Model Predictions}
+      \field{year}{2017}
+      \field{pages}{4768\bibrangedash 4777}
+      \range{pages}{10}
+    \endentry
+    \entry{Moro2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bffc0eaf87b74d93d1d68a52ba972872}{%
+           family={Moro},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7609f1562321e9a038bb71451453cb5}{%
+           family={Cortez},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2715bf0bd6df0c153e3a3926a77d9d49}{%
+           family={Rita},
+           familyi={R\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cf0325b79ec452268900169114ccca52}
+      \strng{fullhash}{402fc45afd9aa304a253c8a0bce1ed2e}
+      \strng{bibnamehash}{402fc45afd9aa304a253c8a0bce1ed2e}
+      \strng{authorbibnamehash}{402fc45afd9aa304a253c8a0bce1ed2e}
+      \strng{authornamehash}{cf0325b79ec452268900169114ccca52}
+      \strng{authorfullhash}{402fc45afd9aa304a253c8a0bce1ed2e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Decision Support Systems}
+      \field{title}{A data-driven approach to predict the success of bank telemarketing}
+      \field{volume}{62}
+      \field{year}{2014}
+      \field{pages}{22\bibrangedash 31}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.dss.2014.03.001
+      \endverb
+    \endentry
+    \entry{Thomas2002}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4a906b8819d6761cd45040de6e9ae076}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3334e87ffd1c17ae182e09654e0177d8}{%
+           family={Edelman},
+           familyi={E\bibinitperiod},
+           given={D.\bibnamedelimi B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2d6167525280deef1b89497073c023f}{%
+           family={Crook},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SIAM}%
+      }
+      \strng{namehash}{81509770a6eac31551912a16151ec2aa}
+      \strng{fullhash}{1b29c36e675aa67b352a10c4623bd14d}
+      \strng{bibnamehash}{1b29c36e675aa67b352a10c4623bd14d}
+      \strng{authorbibnamehash}{1b29c36e675aa67b352a10c4623bd14d}
+      \strng{authornamehash}{81509770a6eac31551912a16151ec2aa}
+      \strng{authorfullhash}{1b29c36e675aa67b352a10c4623bd14d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Credit scoring and its applications}
+      \field{year}{2002}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{Breiman2001}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c4de625aef3b09e83edf76c200750fc6}{%
+           family={Breiman},
+           familyi={B\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c4de625aef3b09e83edf76c200750fc6}
+      \strng{fullhash}{c4de625aef3b09e83edf76c200750fc6}
+      \strng{bibnamehash}{c4de625aef3b09e83edf76c200750fc6}
+      \strng{authorbibnamehash}{c4de625aef3b09e83edf76c200750fc6}
+      \strng{authornamehash}{c4de625aef3b09e83edf76c200750fc6}
+      \strng{authorfullhash}{c4de625aef3b09e83edf76c200750fc6}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Learning}
+      \field{number}{1}
+      \field{title}{Random forests}
+      \field{volume}{45}
+      \field{year}{2001}
+      \field{pages}{5\bibrangedash 32}
+      \range{pages}{28}
+    \endentry
+    \entry{Dataro2025}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5d465540d32937c8877415a8443a4914}{%
+           family={Dataro},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d465540d32937c8877415a8443a4914}
+      \strng{fullhash}{5d465540d32937c8877415a8443a4914}
+      \strng{bibnamehash}{5d465540d32937c8877415a8443a4914}
+      \strng{authorbibnamehash}{5d465540d32937c8877415a8443a4914}
+      \strng{authornamehash}{5d465540d32937c8877415a8443a4914}
+      \strng{authorfullhash}{5d465540d32937c8877415a8443a4914}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to cut telemarketing costs using propensity modelling}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.dataro.io/blog/how-to-cut-telemarketing-costs-using-propensity-modelling
+      \endverb
+      \verb{url}
+      \verb https://www.dataro.io/blog/how-to-cut-telemarketing-costs-using-propensity-modelling
+      \endverb
+    \endentry
+    \entry{Intelemark2025}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0746e28c4eb309c29f494618a42b5409}{%
+           family={Intelemark},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{0746e28c4eb309c29f494618a42b5409}
+      \strng{fullhash}{0746e28c4eb309c29f494618a42b5409}
+      \strng{bibnamehash}{0746e28c4eb309c29f494618a42b5409}
+      \strng{authorbibnamehash}{0746e28c4eb309c29f494618a42b5409}
+      \strng{authornamehash}{0746e28c4eb309c29f494618a42b5409}
+      \strng{authorfullhash}{0746e28c4eb309c29f494618a42b5409}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{10 key metrics for measuring telemarketing success and ROI}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://www.intelemark.com/blog/10-key-metrics-for-measuring-telemarketing-success-and-roi/
+      \endverb
+      \verb{url}
+      \verb https://www.intelemark.com/blog/10-key-metrics-for-measuring-telemarketing-success-and-roi/
+      \endverb
+    \endentry
+    \entry{Lessmann2015}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2ef8545eccc82340776d291a71b689bf}{%
+           family={Lessmann},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd6b145c97476dfb7827be081e4ac697}{%
+           family={Baesens},
+           familyi={B\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44e94f922c05bd81f0cb9254a592978c}{%
+           family={Seow},
+           familyi={S\bibinitperiod},
+           given={H.\bibnamedelimi V.},
+           giveni={H\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a906b8819d6761cd45040de6e9ae076}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fcb9c08ac1e323eaf1c9aa7d61a8c52c}
+      \strng{fullhash}{de0326c91ed3f400436f2b229d06d6d3}
+      \strng{bibnamehash}{de0326c91ed3f400436f2b229d06d6d3}
+      \strng{authorbibnamehash}{de0326c91ed3f400436f2b229d06d6d3}
+      \strng{authornamehash}{fcb9c08ac1e323eaf1c9aa7d61a8c52c}
+      \strng{authorfullhash}{de0326c91ed3f400436f2b229d06d6d3}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Operational Research}
+      \field{number}{1}
+      \field{title}{Benchmarking state-of-the-art classification algorithms for credit scoring}
+      \field{volume}{247}
+      \field{year}{2015}
+      \field{pages}{124\bibrangedash 136}
+      \range{pages}{13}
+    \endentry
+    \entry{LundbergLee2017}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1e9f977bbfce424605b5bc2a155b4529}{%
+           family={Lundberg},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0,
+           suffix={Scott\},
+           suffixi={S\bibinitperiod},
+           suffixun=0}}%
+        {{un=0,uniquepart=base,hash=ee964079d93879aaef2382a5fff343d3}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Su-In},
+           giveni={S\bibinithyphendelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Long Beach, CA}%
+      }
+      \list{publisher}{1}{%
+        {Curran Associates, Inc.}%
+      }
+      \strng{namehash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \strng{fullhash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \strng{bibnamehash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \strng{authorbibnamehash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \strng{authornamehash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \strng{authorfullhash}{247ad026f7b150bdbe34dc57ce00b03d}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Neural Information Processing Systems 30}
+      \field{title}{A Unified Approach to Interpreting Model Predictions}
+      \field{year}{2017}
+      \field{pages}{4768\bibrangedash 4777}
+      \range{pages}{10}
+    \endentry
+    \entry{Moro2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bffc0eaf87b74d93d1d68a52ba972872}{%
+           family={Moro},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f7609f1562321e9a038bb71451453cb5}{%
+           family={Cortez},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2715bf0bd6df0c153e3a3926a77d9d49}{%
+           family={Rita},
+           familyi={R\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cf0325b79ec452268900169114ccca52}
+      \strng{fullhash}{402fc45afd9aa304a253c8a0bce1ed2e}
+      \strng{bibnamehash}{402fc45afd9aa304a253c8a0bce1ed2e}
+      \strng{authorbibnamehash}{402fc45afd9aa304a253c8a0bce1ed2e}
+      \strng{authornamehash}{cf0325b79ec452268900169114ccca52}
+      \strng{authorfullhash}{402fc45afd9aa304a253c8a0bce1ed2e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Decision Support Systems}
+      \field{title}{A data-driven approach to predict the success of bank telemarketing}
+      \field{volume}{62}
+      \field{year}{2014}
+      \field{pages}{22\bibrangedash 31}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.dss.2014.03.001
+      \endverb
+    \endentry
+    \entry{Thomas2002}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4a906b8819d6761cd45040de6e9ae076}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={L.\bibnamedelimi C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3334e87ffd1c17ae182e09654e0177d8}{%
+           family={Edelman},
+           familyi={E\bibinitperiod},
+           given={D.\bibnamedelimi B.},
+           giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2d6167525280deef1b89497073c023f}{%
+           family={Crook},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SIAM}%
+      }
+      \strng{namehash}{81509770a6eac31551912a16151ec2aa}
+      \strng{fullhash}{1b29c36e675aa67b352a10c4623bd14d}
+      \strng{bibnamehash}{1b29c36e675aa67b352a10c4623bd14d}
+      \strng{authorbibnamehash}{1b29c36e675aa67b352a10c4623bd14d}
+      \strng{authornamehash}{81509770a6eac31551912a16151ec2aa}
+      \strng{authorfullhash}{1b29c36e675aa67b352a10c4623bd14d}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Credit scoring and its applications}
+      \field{year}{2002}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
